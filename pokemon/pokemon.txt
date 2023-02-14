@@ -1,4 +1,4 @@
-Charmander
+Charmander ![./charmander.png] (charmander)
 Squirtle 
 Bulbasaur
 Magikarp
