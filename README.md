@@ -1,4 +1,4 @@
 # Pokemon REPO  
-![./charmander.png] (Charmander)
+![./charmande![](charmander.png)r.png] (charmander)
 
 # ESTE REPOSITORIO E PARA O CURSO GIT/GITHUB INICIANTE
